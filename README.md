@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-**Run $git clone git@github.com:M0rrighan/Calculator.git to clone the project** 
+**Run `$git clone https://github.com/M0rrighan/Calculator.git` to clone the project** 
 **or download from the Download ZIP link**
 
 ### Prerequisites
